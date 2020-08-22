@@ -35,3 +35,4 @@ module "wordpress" {
 ### Please run 
 ``` 
 terraform apply -var-file environment.tfvars
+
